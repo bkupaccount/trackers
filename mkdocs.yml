@@ -115,8 +115,11 @@ nav:
     - Quickstart: index.md
   - Trackers:
     - Comparison: trackers/comparison.md
+    - SOTA Landscape: trackers/sota.md
     - SORT: trackers/sort.md
     - ByteTrack: trackers/bytetrack.md
+    - BoT-SORT: trackers/botsort.md
+    - TransformerTracker: trackers/transformer.md
     - OC-SORT: trackers/ocsort.md
   - Guides:
     - Install: learn/install.md

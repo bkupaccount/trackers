@@ -8,6 +8,14 @@
 
 ::: trackers.core.bytetrack.tracker.ByteTrackTracker
 
+## BoT-SORT
+
+::: trackers.core.botsort.tracker.BOTSORTTracker
+
+## TransformerTracker
+
+::: trackers.core.transformer.tracker.TransformerTracker
+
 ## OC-SORT
 
 ::: trackers.core.ocsort.tracker.OCSORTTracker

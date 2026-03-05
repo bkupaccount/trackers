@@ -1,6 +1,8 @@
 # Tracker Comparison
 
 This page shows head-to-head performance of SORT, ByteTrack, and OC-SORT on standard MOT benchmarks. All results come from benchmarking our current implementation of each tracker with default parameters.
+For a broader snapshot of current state-of-the-art methods (including transformer-based MOT), see the [SOTA landscape](sota.md).
+
 
 ## [MOT17](https://arxiv.org/abs/1603.00831)
 
